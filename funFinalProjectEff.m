@@ -1,10 +1,10 @@
-function[] = funFinalProject(pIn,Efficiency,type,t,xLabel,yLabel)
+function[] = funFinalProjectEff(pIn,Eff,type,t,xLabel,yLabel)
     [r,c] = size(pIn);
 
     figure;
     for i = 1:c
      hold on;
-        plot(pIn,Efficiency,type);
+        plot(pIn,Eff,type);
     end
 
     hold off;
