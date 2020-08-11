@@ -4,7 +4,7 @@ C1 = .02;
 C2 = .0015;
 pIn = [0:125]; %The range for Power Input
 pLoss = C0 + C1*P + C2*P.^2; %Equation for Power Loss
-for i = 1:pIn %Sets value of P so that it increases with the range of pLoss
+for i = 1:126 %Sets value of P so that it increases with the range of pLoss
  P = i;
 end
 
