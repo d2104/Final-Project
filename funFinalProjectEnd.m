@@ -11,6 +11,6 @@ function[] = funFinalProjectEnd(Cf,X,type,t,xLabel,yLabel)
     title(t);
     xlabel(xLabel);
     ylabel(yLabel);
-    axis([25,100,0,10])
+    axis([20,105,0,1])
 
 end

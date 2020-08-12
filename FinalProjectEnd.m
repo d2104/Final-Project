@@ -17,5 +17,5 @@ title = 'Endurance Plot';
 xLabel = 'Fuel Capacity';
 yLabel = 'Endurance';
 
-funFinalProjectEff(Cf,X,type,title,xLabel,yLabel);
+funFinalProjectEnd(Cf,X,type,title,xLabel,yLabel);
 legend('Endurance');
