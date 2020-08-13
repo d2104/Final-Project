@@ -11,7 +11,7 @@ I left comments throughout my codes that should be able to explain my math and r
 
 The following set of variables, equations, and values were used to create the Efficiency Plot:
 
-Power Loss: pLoss = C0 + C1*P + C2*P^2 , where C0, C1, and C2 are coefficients of P (Power)
+Power Loss: pLoss = C0 + C1(P) + C2(P^2) , where C0, C1, and C2 are coefficients of P (Power)
 
 C0 = 0.6
 
