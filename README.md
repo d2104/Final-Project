@@ -6,7 +6,9 @@ FinalProjectEff and funFinalProjectEff contain the code for the Efficiency Plot.
 Similarly, FinalProjectEnd and funFinalProjectEnd contain the code for the Endurance Plot.
 
 
+
 I left comments throughout my codes that should be able to explain my math and reasoning. The comments also define any variables or coefficients used. 
+
 
 
 The following set of variables, equations, and values were used to create the Efficiency Plot:
@@ -22,6 +24,7 @@ C2 = 0.0015
 Power Output: pOut = pIn - pLoss , where pIn is Power Input
 
 Efficiency: Eff = pOut/pIN over the range [0,125] for pIN
+
 
 
 The following set of variables, equations, and values were used to create the Endurance Plot:
