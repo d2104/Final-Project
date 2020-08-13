@@ -14,7 +14,7 @@ for i = 1:126
 end
 
 pOut = zeros(1,126); %Template for Power Output array/data
-for j = 1:126 x
+for j = 1:126 
     pOut(j) = pIn(j) - pLoss(j); %Subtracts pLoss from its corresponding element of pIn
 end
 
