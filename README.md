@@ -21,7 +21,9 @@ C2 = 0.0015
 
 Power Output: pOut = pIn - pLoss , where pIn is Power Input
 
-Efficiency: Eff = pOut/pIN over the range [0,125] for pIN
+*pIn is equal to P
+
+Efficiency: Eff = pOut/pIn over the range [0,125] for pIn
 
 
 The following set of variables, equations, and values were used to create the Endurance Plot:
